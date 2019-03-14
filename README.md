@@ -1,3 +1,8 @@
+Pre-requisites : 
+**Docker should be up and running on localhost**
+
+
+
 # ELKwithSelenium
 Sample code to implement ELK with selenium/API test framework
 
