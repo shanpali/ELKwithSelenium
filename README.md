@@ -19,4 +19,4 @@ Kibana is a front-end application for Elasticsearch. It is basically a data visu
 docker run -p 5601:5601 -e ELASTICSEARCH_URL=http://[IP where elasticsearch is running]:9200 docker.elastic.co/kibana/kibana:6.2.2
 
 
-reference : http://www.testautomationguru.com
+to launch kibana dashboard : http://localhost:5601
